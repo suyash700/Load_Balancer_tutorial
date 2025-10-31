@@ -4,11 +4,11 @@
 
 We will create:
 
-1.4 EC2 instances
+1. 4 EC2 instances
 
-2.2 Target Groups
+2. 2 Target Groups
 
-3.1 Application Load Balancer (ALB)
+3. 1 Application Load Balancer (ALB)
 and configure routing rules:
 
 Target Group 1 (TG-1) → Header-based routing
@@ -19,7 +19,7 @@ Target Group 2 (TG-2) → Path + Header-based routing (/mobile + specific header
 --------------------
 
 
-🚀 Step 1: Create 4 EC2 Instances
+## 🚀 Step 1: Create 4 EC2 Instances
 
 Go to EC2 → Instances → Launch Instance.
 
