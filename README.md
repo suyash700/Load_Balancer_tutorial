@@ -1,5 +1,3 @@
-<img width="1918" height="875" alt="Screenshot 2025-10-31 193215" src="https://github.com/user-attachments/assets/45f3aaca-03c9-4e73-b351-9077767a9721" /># Load_Balancer_tutorial
-
 # 🧭 AWS Application Load Balancer — Header-Based + Path-Based Routing
 
 🎯 Objective
