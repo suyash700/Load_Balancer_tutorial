@@ -1,7 +1,10 @@
 # 🧭 AWS Application Load Balancer — Header-Based + Path-Based Routing
 
-                  # Overview
+# Overview
 
+<img width="1216" height="740" alt="image" src="https://github.com/user-attachments/assets/53c5cf89-eed2-40db-9cdb-aad3934a028b" />
+
+<img width="506" height="722" alt="image" src="https://github.com/user-attachments/assets/1a932cf7-27f1-47f3-b4fb-7c986200c95a" />
 
 🎯 Objective
 
